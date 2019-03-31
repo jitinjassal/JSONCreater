@@ -6,7 +6,7 @@
 			"optionD": "Modem                
 			"funFactImage": " ",
 			"answer": " ",
-			"funFact": "An input device is any hardware that accepts and sends data to a computer, allowing one to interact with and controlthe computer. The most commonly used input devices are the keyboard and mouse."
+			"funFact": "An input device is any hardware that accepts and sends data to a computer."
 		},
 
 		{ 
@@ -17,27 +17,5 @@
 			"optionD": "Digital camera        
 			"funFactImage": " ",
 			"answer": " ",
-			"funFact": "A keyboard is the most commonlyused input device. It is used for typing text. Whatever is typed on the keyboard is seen on the monitor."
-		},
-
-		{ 
-			"question": "Scanners are used to enter information into _______________",
-			"optionA": "Computer Monitor",
-			"optionB": "Computer Memory",
-			"optionC": "Projector",
-			"optionD": "Mini computer
-			"funFactImage": " ",
-			"answer": " ",
-			"funFact": "Scanners are used to enter information directly into the computer memory by sensing the contents of a document. This device works like a photocopy machine. It converts any type of printed information including photographs into digital pulses, which can be manipulated using the computer and stored in a defined format like pdf or jpg."
-		},
-
-		{ 
-			"question": "Which of the following options will make the statement false? Optical Character Reader is a(n) ____________device.",
-			"optionA": "Input",
-			"optionB": "Output",
-			"optionC": "Scanning",
-			"optionD": "low-frequency light producing
-			"funFactImage": " ",
-			"answer": " ",
-			"funFact": "Optical Character Reader can detect alphanumeric characters on a paper. The OCR is placed on the paper and the text is scanned with a low-frequency light source emanating from it. This light is absorbed by darkareas but reflected by bright areas. The reflected light is received by photocells and converted into electric signals."
+			"funFact": "A keyboard is the most commonly used input device."
 		}

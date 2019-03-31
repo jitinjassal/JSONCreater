@@ -1,0 +1,14 @@
+1. An ________ is a hardware that accepts and sends data to a computer.
+a. Inputdevice
+b. Output device
+c. Printer
+d. Modem                
+Fun Fact: An input device is any hardware that accepts and sends data to a computer.
+
+
+2. _________ is an input device that is used to enter text or number.
+a. Keyboard
+b. Mouse
+c. Modem
+d. Digital camera        
+Fun Fact: A keyboard is the most commonly used input device.
