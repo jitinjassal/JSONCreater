@@ -114,6 +114,8 @@ public class JSONCreator extends javax.swing.JFrame {
       str= str.replaceAll("\nc. ", "\",\n\t\t\t\"optionC\": \"");
       str= str.replaceAll("\nd. ", "\",\n\t\t\t\"optionD\": \"");
       str= str.replaceAll("\nFun Fact: ", "\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
+      str= str.replaceAll("\nFun Facts: ", "\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
+
       //str= str+"\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \"";
       str= str.replaceAll("\n\n", "\"\n\t\t},\n");
 
