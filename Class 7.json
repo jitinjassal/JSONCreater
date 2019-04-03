@@ -1,0 +1,1345 @@
+{
+  "classSevenChapterOne": [
+		{ 
+			"question": "___________ holds many crucial electronic components and allows communication between them.",
+			"optionA": "Central Processing unit",
+			"optionB": "Motherboard",
+			"optionC": "Random Access Memory",
+			"optionD": "Read Only memory",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Phones, tablets and other small devices have motherboards too but they are called logic boards instead. Their components are soldered directly onto the board to save space, which means there arenot expansion slots for upgrades like you see in desktop computers."
+		},
+
+		{ 
+			"question": "__________refers to the integrated circuits that store information for immediate use in a computer.",
+			"optionA": "Connectors",
+			"optionB": "Memory",
+			"optionC": "Motherboard",
+			"optionD": "Chip",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The leak occurs when a particular program asks for memory allotment from the OS and it never returns the memory once the requirement is over. This kind of bug may ruin the system as they gradually need more memory. It will fail over time when the memory runs out."
+		},
+
+		{ 
+			"question": "The type of memory that stores data and machine code currently being used is called __________.",
+			"optionA": "Random Access Memory",
+			"optionB": "Read Only Memory",
+			"optionC": "Central Processing Unit",
+			"optionD": "Arithmetic Logic Unit",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Dynamic random-access memory is the most used form of RAM in today’s computers. It is called dynamic (or active), because it must be refreshed all the time or it will lose the data which it is supposed to be storing. That is why it is called volatile."
+		},
+
+		{ 
+			"question": "Control Unit, Arithmetic Logic Unit, and Cache Memory are part of ___________.",
+			"optionA": "Random Access Memory",
+			"optionB": "Read Only Memory",
+			"optionC": "Central Processing Unit",
+			"optionD": "Arithmetic Logic Unit",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The modern CPU and the traditional CPU are very different. The traditional ones had only on processor per chip, but the modern ones have multiple processors in a single chip."
+		},
+
+		{ 
+			"question": "Hard Disk Drive is a collection of ______________.",
+			"optionA": "Integrated circuits",
+			"optionB": "Connectors",
+			"optionC": "Rotating Magnetic disks",
+			"optionD": "Solid State Drive",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Hard disk heads float over the surface of disk platters and do all their work without ever physically touching the platters that they are magnetizing. The components inside are very delicate and the distance between head and platter is about 1/1000 of human hair."
+		},
+
+		{ 
+			"question": "Disk drives are equipped with a motor to rotate the disks and a ________ to read and write data onto them.",
+			"optionA": "Mechanical head",
+			"optionB": "Storage unit",
+			"optionC": "Floppy disks",
+			"optionD": "Compact disks",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The first hard disk, IBM Model 3		{ 
+			"question": "Disk File was created by IBM in 195		{ 
+			"question": "The hard drive was made from 		{ 
+			"question": "discs and its size was as big as a regular table. The capacity of the hard drive was 5 MB and its price was USD 3200 (Rs 218000 approx in today’s price)."
+		},
+		{ 
+			"question": "A computer needs electric power to run, and Switched-Mode Power Supply (SMPS) does this by converting the AC supply into multiple ______________ outputson which the different parts of computer run.",
+			"optionA": "Indirect current",
+			"optionB": "Direct current",
+			"optionC": "Voltage",
+			"optionD": "Binary number",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The Job of SMPS for computers is akin to the job of heart for humans. Just like heart supplies blood to different parts of the body, SMPS supplies 3.3V, 		{ 
+			"question": "and 1		{ 
+			"question": "DC supply to various computer parts for their operation. "
+		},
+
+		{ 
+			"question": "________ are interface points that allow external hardware to connect with the internal hardware of the computer. ",
+			"optionA": "Ports",
+			"optionB": "Disks drives",
+			"optionC": "Connectors",
+			"optionD": "Solid state drives",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "A port can be either physical or virtual.Physical ports could be Ethernet ports, USB ports, Serial ports etc. Virtual ports on the other hand are an essential component of Internet Protocol (IP) networking. These ports allow software applications to share hardware resources without interfering with each other."
+		},
+
+		{ 
+			"question": "Modern-day motherboards contain, at minimum, three audio ports. The green coloured port is for _____________.",
+			"optionA": "Microphone",
+			"optionB": "Audio input device",
+			"optionC": "Computer",
+			"optionD": "Audio output device",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The motherboard is like a big city with many streets and highways that connect all of the buildings together, for computers it will be electronic components or ICs. Instead of streets and highways, the motherboard uses tiny electrical paths to connect each component of the computer together."
+		},
+
+		{ 
+			"question": "Which one of these is an electro-mechanical output device?",
+			"optionA": "Mouse",
+			"optionB": "Scanner",
+			"optionC": "Printer",
+			"optionD": "keyboard",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The largest single print run occurred in the initial printing of Harry Potter and The Deathly Hallows. 		{ 
+			"question": "million copies were printed consecutively. Imagine the state of the mechanical parts of the printers after this grueling process."
+		},
+
+
+	],
+
+  "classSevenChapterTwo": [
+		{ 
+			"question": "Hexadecimal number system should have ______ numbers.",
+			"optionA": "2",
+			"optionB": "8",
+			"optionC": "10",
+			"optionD": "16",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Hexadecimal number system is used to represent binary values using a lesser number of symbols. Each symbol of this number system corresponds to 4 bits in the binary number system. The symbols used in this system are 0, 		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "		{ 
+			"question": "A, B, C, D, E and F."
+		},
+
+		{ 
+			"question": "Octal number system corresponds to ___ bits of the binary number.",
+			"optionA": "2",
+			"optionB": "3",
+			"optionC": "4",
+			"optionD": "5",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The root of the word ‘Octal’ is ‘Oct’, meaning ‘eight’. The Octal counting system has eight digits. If you count all of the possible combinations of 3 binary digits, you will find that there are 2^		{ 
+			"question": "or 8 combinations. So, there is 1:1 mapping of combinations of 3 bits to the 8 digits, 0-7."
+		},
+
+		{ 
+			"question": "Binary addition of 1001 +11		{ 
+			"question": "is ________.",
+			"optionA": "11000",
+			"optionB": "11110",
+			"optionC": "10100",
+			"optionD": "10101",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "1001"
+		},
+
+		{ 
+			"question": "The product of 0 and 1 in binary is ______.",
+			"optionA": "0",
+			"optionB": "1",
+			"optionC": "10",
+			"optionD": "Invalid",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Product of 0 and 1 in decimal number system is 0. Similarly, product of 0 and 1 in binary is 0."
+		},
+
+		{ 
+			"question": "The binary number 1		{ 
+			"question": "when converted to octal will be represented by _______.",
+			"optionA": "3",
+			"optionB": "5",
+			"optionC": "6",
+			"optionD": "7",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Binary representation of few numbers are as follows:"
+		},
+
+		{ 
+			"question": "When converting the binary number 11		{ 
+			"question": "to decimal format, what power 2 should have for the left most digit?",
+			"optionA": "0",
+			"optionB": "2",
+			"optionC": "3",
+			"optionD": "4",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "		{ 
+			"question": "		{ 
+			"question": "+ 1 * 		{ 
+			"question": "+ 1 *		{ 
+			"question": "+ 1 * 		{ 
+			"question": "=1		{ 
+			"question": "as we can see power of 2 for the left most digit should be 3."
+		},
+
+		{ 
+			"question": "In hexadecimal decimal number system the symbol D represents ______.",
+			"optionA": "11",
+			"optionB": "12",
+			"optionC": "13",
+			"optionD": "14",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The symbols A, B, C, D, E and F represent 		{ 
+			"question": "1		{ 
+			"question": "1		{ 
+			"question": "1		{ 
+			"question": "		{ 
+			"question": "and 		{ 
+			"question": "respectively in hexadecimal number system. This system comprises of 		{ 
+			"question": "numbers in total; digits from 0-9 and symbols from A to F."
+		},
+
+		{ 
+			"question": "How many bits are required to represent a hexadecimal number in binary?",
+			"optionA": "2",
+			"optionB": "3",
+			"optionC": "4",
+			"optionD": "8",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The hexadecimal number system comprises of 		{ 
+			"question": "symbols: 		{ 
+			"question": "digits and 6 symbols. Consider F in hexadecimal system. In decimal this symbol represents 1		{ 
+			"question": "The decimal number 		{ 
+			"question": "converts to 11		{ 
+			"question": "in binary system.Hence, four bits are sufficient to represent any hexadecimal number in the binary format."
+		},
+
+		{ 
+			"question": "CAB a valid hexadecimal number.",
+			"optionA": "False",
+			"optionB": "True",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "In a hexadecimal number system, alphabets are used for the representation of numbers from 		{ 
+			"question": "to 1		{ 
+			"question": "Here, C represents 1		{ 
+			"question": "A represents 		{ 
+			"question": "and B represents 1		{ 
+			"question": "Therefore, it is a valid hexadecimal number."
+		},
+		{ 
+			"question": "What is the value of the base in decimal number system?",
+			"optionA": "2",
+			"optionB": "8",
+			"optionC": "10",
+			"optionD": "16",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "A decimal number system consists of 		{ 
+			"question": "digits from 0 to 		{ 
+			"question": "The base is described as a quantity to represent the number of digits present in that particular number system. Therefore, here the base is 10."
+		},
+
+	],
+
+  "classSevenChapterThree": [
+		{ 
+			"question": "Which of the following statements explains computer ethics?",
+			"optionA": "It is concerned with how different people use the Internet differently.",
+			"optionB": "It is concerned with how one should make decisions and behavewhen using the Internet.",
+			"optionC": "It is concerned with pros and cons of using the Internet.",
+			"optionD": "It is concerned with how should you respond to your emails. ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Computer ethics is set of moral principles that regulate the use of computers."
+		},
+
+		{ 
+			"question": "Which of the following statements cannot be categorized as disadvantage of the Internet?",
+			"optionA": "Allows spreading false information or rumors and cause unrest among common people",
+			"optionB": "Allows communication from any corner of the world to the other parts of the world.",
+			"optionC": "Allows malicious people to target children or innocent people to extract sensitive information.",
+			"optionD": "Allows people to get glued to the Internet and forget about their important work.",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Internet addiction, also known as problematic Internet use, is becoming increasingly recognized as a mental health concern. An Internet addiction is typically characterized by a level of Internet use that impairs relationships; brings about family, work, or interpersonal difficulties; and impacts daily function in a negative way."
+		},
+
+		{ 
+			"question": "From the sentences below identify the subject.
+		{ 
+			"question": "Surfing celebrity website
+		{ 
+			"question": "Playing online games
+		{ 
+			"question": "watch favorite cartoon movie online",
+			"optionA": "Use of the Internet in E-commerce                b. Use of the Internet for school project",
+			"optionC": "Use of the Internet for entertainment        d.  Use of the Internet for communication ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The first YouTube video called Me at the zoo, was uploaded on April 23rd, 2005."
+		},
+
+		{ 
+			"question": "From the sentences below identify the subject.
+		{ 
+			"question": "Products are sold online
+		{ 
+			"question": "financial transaction is done through the Internet
+		{ 
+			"question": "compare the prices of products before making decisions to purchase",
+			"optionA": "Use of the Internet in E-commerce            b. Use of the Internet for school project",
+			"optionC": "Use of the Internet for entertainment           d.  Use of the Internet for communication ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "E-commerce is also known as electronic commerce or internet commerce. This is used to buy and sell goods or services using the internet."
+		},
+
+		{ 
+			"question": "Copying information, videos or pictures from online resources without the knowledge of the original author is called _________.",
+			"optionA": "Cyber bullying",
+			"optionB": "Hacking",
+			"optionC": "Phishing",
+			"optionD": "Plagiarism",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Some English phrases are so common that they will appear in the writing of different people. Plagiarism only arises when a string of work or a thought long enough to reflect one’s personality is used."
+		},
+
+		{ 
+			"question": "If you see someone cyber bullied, what would you do?",
+			"optionA": "Simply watch",
+			"optionB": "Contact teacher and seek help",
+			"optionC": "Follow the person who is doing it",
+			"optionD": "Be a bystander",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Whether you’re on Facebook chat, Google chat, or another form of instant messaging, just block the person from your account, so that you cannot receive any messages from that person. Once you block the person from talking to you, he or she is likely to give up on trying to reach out to you. Blocking sends a louder message than engaging with the bully. The bully is bound to observe that you’re serious about wanting to be left alone."
+		},
+
+		{ 
+			"question": "What is the process of remotely accessing someone’s computer system or mobile with the intention of stealing private or sensitive information called?",
+			"optionA": "Plagiarism",
+			"optionB": "Cyber bullying",
+			"optionC": "Hacking",
+			"optionD": "Phishing",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Hackers are skilled computer network specialists who know how to bypass security measures and infiltrate the victim’s computer."
+		},
+
+		{ 
+			"question": "How can you protect yourself from getting duped by a phishing mail?",
+			"optionA": "Taking note of the incorrect email address",
+			"optionB": "Noting any grammatically incorrect sentence or spelling",
+			"optionC": "Noting the sense of urgency",
+			"optionD": "Getting trained to identify one",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Anti-phishing tools help detect phishing emails and websites."
+		},
+
+		{ 
+			"question": "The act of sending the same message indiscriminately to a large number of Internet users is called ___________.",
+			"optionA": "Hacking",
+			"optionB": "Spamming",
+			"optionC": "Phishing",
+			"optionD": "Cyber bullying",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The spam is an acronym for Shoulder of Pork and hAM or SPiced hAM. It is a name given to a canned meat product, introduced in 193		{ 
+			"question": "The word spam was made popular in 19		{ 
+			"question": "due to BBC comedy sketch Monty Python, in which the name of meat product was mentioned 		{ 
+			"question": "times. Later sending an irritating, meaningless block of text was called spamming."
+		},
+
+		{ 
+			"question": "The act of redistributing a licensed copy of a particular software without the explicit permission of the original developer is called _________.",
+			"optionA": "Breach of intellectual property",
+			"optionB": "Spamming",
+			"optionC": "Software piracy",
+			"optionC": "Hacking",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Netflix actually usespiracy figures to decide which shows to buy next. Piracy is one of their preferred methods to help gauge consumer demand."
+		},
+
+	],
+
+  "classSevenChapterFour": [
+		{ 
+			"question": " From the sentences given below identify the subject.
+		{ 
+			"question": "a malicious application software gets downloaded in the system
+		{ 
+			"question": "on execution, replicates itself by modifying other computer programs and inserting its own code
+		{ 
+			"question": "targets operating system files",
+			"optionA": "Computer virus        b. software piracy",
+			"optionC": "Breach of intellectual property                           d. Hacking",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The first computer virus was named the Creeper Virus. It was detected on ARPANET, predecessor of the Internet in the early 1970s. It was a self-replicating program written as an experiment by Bob Thomas at BBN Technologies in 1971."
+		},
+
+		{ 
+			"question": "Which of these phrases explain the motive behind for a virus attack?",
+			"optionA": "To check anti-detection software",
+			"optionB": "To sabotage and denial of services",
+			"optionC": "To explore cybersecurity issues",
+			"optionD": "To educate people about viruses",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "It has been found that a typical virus writer is male, between 		{ 
+			"question": "to 		{ 
+			"question": "years of age. It has also been observed that virus writers are mostly children and students looking to experimenting and honing their programming skills. The programmer of a virus intentionally writes a virus program."
+		},
+
+		{ 
+			"question": "A boot sector virus infects the master boot program, which is the starting point of the operating system files. How does this affect a computer?",
+			"optionA": "This virus changes the contents of this record and does not allow the operating system to boot.",
+			"optionB": "This virus destroys the storage media and does not allow the operating system to boot.",
+			"optionC": "This virus infects the web browser’s setting without the user’s permission.",
+			"optionD": "This virus hides and stores itself within the computer memory, which then allows it to infect any file that is run by the computer.",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " The first boot sector virus was discovered in 198		{ 
+			"question": "The virus originated in Pakistan and operated in full-stealth mode, infecting 360-Kb floppies. Dubbed Brain was the name given to the virus."
+		},
+
+		{ 
+			"question": "Identify the virus with help of the characteristics written below.
+		{ 
+			"question": "a collection of malicious codes run by some web applet unknowingly
+		{ 
+			"question": "codes are left in written form in the comments/suggestion form",
+			"optionA": "Boot sector virus",
+			"optionB": "Web scripting virus",
+			"optionC": "Browser hijacker",
+			"optionD": " Resident virus",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Web script is a computer programming language for adding dynamic capabilities to World Wide Web pages. Web pages marked up with HTML or XML are largely static documents."
+		},
+
+		{ 
+			"question": "Identify the virus with the help of the characteristics written below.
+		{ 
+			"question": "modifies a web browser’s settings without the user’s permission
+		{ 
+			"question": "then as soon as the browser is launched, it redirects the user to some other site",
+			"optionA": "Boot sector virus",
+			"optionB": "Web scripting virus",
+			"optionC": "Browser hijacker",
+			"optionD": " Resident virus",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Browser hijackers are created purposely for commercial, marketing and publicity purposes."
+		},
+
+		{ 
+			"question": "Identify the type of virus attack with the help of the characteristics written below.
+		{ 
+			"question": "a standalone malware computer program that replicates itself in order to spread to other computers
+		{ 
+			"question": "it uses a computer network to spread itself, relying on security failures on the target computer to access it",
+			"optionA": "Boot sector virus",
+			"optionB": "Web scripting virus",
+			"optionC": "Worm",
+			"optionD": " Ransomware",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "MyDoom was the fastest spreading computer worm ever created. It was first sighted in 200		{ 
+			"question": "and it spread so fast, the record of which is yet to be surpassed as of 201		{ 
+			"question": "Back in 200		{ 
+			"question": "it was estimated to be impacting nearly 2		{ 
+			"question": "of all emails being sent. It caused the most economic damage, estimated at a whopping USD $38.5 billion."
+		},
+
+		{ 
+			"question": "Identify the type of virus attack with the help of the characteristics written below.
+		{ 
+			"question": "aims to gather information about a person or organization without their knowledge
+		{ 
+			"question": "send such information to another entity without the consumer’s consent
+		{ 
+			"question": "designed to remain undetected",
+			"optionA": "Boot sector virus",
+			"optionB": "Web scripting virus",
+			"optionC": "Worm",
+			"optionD": " Spyware",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The average home PC contains 		{ 
+			"question": "pieces of spyware according to an audit carried out in 2006 by security company Webroot Software."
+		},
+
+		{ 
+			"question": "Identify the virus with the help of the characteristics written below.
+		{ 
+			"question": "written in the same macro language used for software programs
+		{ 
+			"question": "it causes a sequence of actions to begin automatically when the application is opened
+		{ 
+			"question": "a predefined sequence of characters containing an executable code",
+			"optionA": "Macro virus",
+			"optionB": "Web scripting virus",
+			"optionC": "Worm",
+			"optionD": "Spyware",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "One of the most powerful viruses in the world was Melissa Virus, released in March 199		{ 
+			"question": "This virus was so dangerous and impactful that it forced Microsoft to stop their email systems until unless the virus was removed properly from the all computer systems. The virus was a mass mailing macro virus which according to a report infected the 20% systems all across the world."
+		},
+
+		{ 
+			"question": "Identify the virus with the help of the characteristics written below.
+		{ 
+			"question": "changes its code every time it is run
+		{ 
+			"question": "it remains undetected by antivirus software
+		{ 
+			"question": "can be used for phishing purposes as it remains hidden and can be used to monitor user activity",
+			"optionA": "Macro virus",
+			"optionB": "Polymorphic virus",
+			"optionC": "Worm",
+			"optionD": "Spyware",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The first polymorphic virus of the world was Tequila which was released in 199		{ 
+			"question": "With the release of this virus, the life of virus scanners got very difficult as they were not able to identify this virus for the majority period of time.  "
+		},
+
+		{ 
+			"question": "A ____________ is an application software that manages the communications between the computer and Internet.",
+			"optionA": "Modem",
+			"optionB": "Router",
+			"optionC": "Firewall",
+			"optionD": "Antivirus",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " A man named Clifford Stoll helped play a part in the development of firewalls when he discovered German spies tampering with his system."
+		},
+
+
+	],
+
+  "classSevenChapterFive": [
+		{ 
+			"question": "What is the first cell of Excel labelled as? ",
+			"optionA": "AA",
+			"optionB": "Aa",
+			"optionC": "A1",
+			"optionD": "A0",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The most interesting Fact of Excel is that even with very little experience, you can enter data into rows and columns, sort the data and filter it for easier viewing. After entering data, you can create graphs and charts with only a few clicks."
+		},
+
+		{ 
+			"question": "What happens when dollar signs ($) are entered in a cell address?",
+			"optionA": "when copied to another cell the cell address will change",
+			"optionB": "The sheet tab alters",
+			"optionC": "An absolute cell address is created",
+			"optionD": "The function bar is not displayed",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Advanced users can write miniature programs within Excel using Visual Basic for Applications to perform repetitive tasks, create new methods of analyzing data or turn static spreadsheets into interactive utilities."
+		},
+
+		{ 
+			"question": "What are the tabs that appear at the bottom of each workbook called?",
+			"optionA": "Location tab                                                            b. Sheet tab",
+			"optionC": "Position tab                                                             d. Reference tab",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Bruce McPherson has used Visual Basic to put together a tool that can create Sudoku puzzles and solve them as well. This handy tool from Bruce McPherson is just a humble .xlsm file."
+		},
+
+		{ 
+			"question": "What is represented by the small, black square in the lower-right corner of an active cell or range?",
+			"optionA": "Copy handle                                                              b. Fill Handle",
+			"optionC": "Insert Handle                                                             d. Paste handle",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Horiuchi has been using the AutoShape tool to create seriously impressive artwork in Excel. The finished product might look like a traditional Japanese painting. Countless AutoShape designs are layered over one another to build up a picture — apparently the artist initially tried to use Word for his creations, but found that Excel offered a much less limiting canvas."
+		},
+
+		{ 
+			"question": "You canfind the sum of a large range of data by simply selecting a tool. What is this tool called?",
+			"optionA": "Auto sum                                                                  b. Auto correct",
+			"optionC": "Auto format                                                             d. Auto fill",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Using a combination of macros written in Visual Basic, the cells of this spreadsheet can be turned into tiles of the puzzle. Then, you can click in an effort to return the image to its proper arrangement."
+		},
+
+		{ 
+			"question": "Which symbol specifies the fixed column or rows?",
+			"optionA": "*                                                                          b. $",
+			"optionC": "&                        d. #",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Originally released under the name Multiplan in 198		{ 
+			"question": "Microsoft changed the name to Excel when releasing it for the Macintosh in 1985."
+		},
+
+		{ 
+			"question": "Where does Excel display the current cell address?",
+			"optionA": "Name box                b. Formula bar",
+			"optionC": "Title bar                                                                 d. Status bar",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Excel helped Microsoft become the leading PC software developer."
+		},
+
+		{ 
+			"question": "Which of the following operators is not a symbol for the basic arithmetic operations?",
+			"optionA": "*                                                                          b. +",
+			"optionC": "%                        d. /",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "There never was an Excel 1.0 version for Windows."
+		},
+
+		{ 
+			"question": "How can you sum up the Rows and Column numbers quickly in the Excel sheet?
+		{ 
+			"question": "By using SUM function and then range of cells
+		{ 
+			"question": "By manually entering the formula for adding numbers
+		{ 
+			"question": "By entering the range of cells
+		{ 
+			"question": "By manually entering the cell addresses with a + sign in between",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Microsoft considered other names for the program including “Mr. Spreadsheet” and “Master Plan” before deciding on “Excel,” a clever hint to the many cells that make up the spreadsheets while declaring the excellence of the program. Some say that the name was chosen specifically because Microsoft wanted to suggest that its program excelled over Lotus 123."
+		},
+
+		{ 
+			"question": "Which one of these is not a benefit of using formula in Excel sheet?",
+			"optionA": "It calculates the final sum",
+			"optionB": "it calculates automatically the number replaced by another number or digit",
+			"optionC": "It is quick way of calculating",
+			"optionD": "it also helps in printing quickly",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Excel 3.0 is credited for introducing the toolbar, which became the standard for many desktop applications in the years to come."
+		},
+
+
+	],
+
+  "classSevenChapterSix": [
+		{ 
+			"question": "Which of the following options is true?",
+			"optionA": "Hyperlinks Text Markup Language",
+			"optionB": "Host Text Makeup Language",
+			"optionC": "Home Text Markup Language",
+			"optionD": "Hyper Text Markup Language",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "In 199		{ 
+			"question": "the W		{ 
+			"question": "decided to discontinue work on HTML and move the world toward XHTML."
+		},
+		{ 
+			"question": "Which organization is making web standards?",
+			"optionA": "		{ 
+			"question": "Consortium",
+			"optionB": "Microsoft",
+			"optionC": "Google",
+			"optionD": "Oracle ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "In addition to dynamic HTML and other advancements in that area, there are several other tools that were designed to directly compete with HTML. One such tool is Java, which is hailed as a complete programming language, with many features that are compatible with other applications."
+		},
+
+		{ 
+			"question": "Which is the correct HTML element for largest heading?",
+			"optionA": "<h		{ 
+			"question": "                       b. <head>",
+			"optionC": "< h		{ 
+			"question": "                       d. <heading>",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "HTML is a collection of platform-independent."
+		},
+
+		{ 
+			"question": "Which of these options represents the correct HTML element for line break?",
+			"optionA": "</br>",
+			"optionB": "<break>",
+			"optionC": "<br>",
+			"optionD": "<lb>",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Hyper is the opposite of linear.It used to be that computer programs had to move in a linear fashion.HTML does not hold to that pattern and allows the person to view the World Wide Web pages anytime they want and from anywhere."
+		},
+
+		{ 
+			"question": "Which of these options represents the correct HTML element for adding unordered list?",
+			"optionA": "</ul>",
+			"optionB": "<ul>",
+			"optionC": "<li>",
+			"optionD": "<unordered>",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "HTML, along with Hypertext Transport Protocol (HTTP) and uniform resource locator (URL), were created by Tim Berners-Lee in the latter part of the 1980s."
+		},
+
+		{ 
+			"question": "What is the meaning of this tag <ol TYPE = 'i' START = '5'>?",
+			"optionA": "It will start listing from 5 in Roman numeral and continue",
+			"optionB": "It will start listing from 1 in roman numeral and type till 5",
+			"optionC": "it will start listing from 5 and count down till 1",
+			"optionC": "It will start listing from 1 and continue till 5",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "At first, Berners-Lee was faced with the problem of only being able to use his creations on his own personal computer."
+		},
+
+		{ 
+			"question": "Which of the following characters is used to indicate an end tag?",
+			"optionA": "*",
+			"optionB": "/",
+			"optionC": "<",
+			"optionD": "^",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Berners-Lee was collaborating in Switzerland at the CERN physics laboratory with another scientist by the name of Robert Calliau. When Berners-Lee was faced with the problem of organizing his notes, he created HTML to make the information accessible and easy to link."
+		},
+
+		{ 
+			"question": "Which of the following elements is the correct table element?",
+			"optionA": "</TABLE>",
+			"optionB": "<TABLE>",
+			"optionC": "<TR>",
+			"optionD": "<TH>",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Because of his accomplishments, Berners-Lee is considered the father of the World Wide Web and he has received many awards and accolades for his contributions to the world of computers and technology."
+		},
+
+		{ 
+			"question": "Which of the following elements is the correct element to display an ordered list?",
+			"optionA": "<ul>",
+			"optionB": "<TR>",
+			"optionC": "<ol>",
+			"optionD": "<list>",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "HTML is not a perfect tool for designing graphic-intensive sites."
+		},
+
+		{ 
+			"question": "Size of the table can be changed using the Height and Widthattribute. The value of this attribute is specified in ___________.",
+			"optionA": "pixels",
+			"optionB": "characters",
+			"optionC": "centimeters",
+			"optionD": "inches",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Because of HTML's weaknesses in the area of graphics, dynamic HTML was created to enhance the capabilities in Web page design."
+		},
+
+
+	],
+
+  "classSevenChapterSeven": [
+		{ 
+			"question": "Which one of these not a potential problem warranting useof databases?",
+			"optionA": "Redundancy",
+			"optionB": "Overwriting",
+			"optionC": "Organized data",
+			"optionD": "Security",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The product and company name Oracle comes from the code name of a CIA project on which the founders had all worked on while at the Ampex Corporation."
+		},
+
+		{ 
+			"question": "Which among the following is not going on in the background in case of a database management system?",
+			"optionA": "Enforced integrity of data",
+			"optionB": "Security ",
+			"optionC": "Overwriting of data",
+			"optionD": "Listing of data",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "You all know you need buckets and cabinets to store toys. Otherwise the toys take over the floors of your house and all get stuck up. Databases solve this same problem: how to organize stuff (data in the case of databases) to make it easy to find later?"
+		},
+
+		{ 
+			"question": "Which among the following is not a type of database management system?",
+			"optionA": "Excel Workbook",
+			"optionB": "Relational Database System",
+			"optionC": "Object-Oriented Database system",
+			"optionD": "Hierarchical Database System
+Fun Fact:Every parent must have suffered when his or her child can’t find a favorite toy because it’s mixed up with in a heap of different toys. Databases solve that problem for computers."
+		},
+
+		{ 
+			"question": "The DBMS acts as an interface between what two components of an organization’s database.",
+			"optionA": "User and the database application",
+			"optionB": "Database application and SQL",
+			"optionC": "Database application and the database  ",
+			"optionD": "Data and the database",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Just like parents and kids sort toys for easy access similarly databases also sort data for the same reasons."
+		},
+
+		{ 
+			"question": "In a database, the columns decide",
+			"optionA": "Actual value of data",
+			"optionB": "What data should be there in a table",
+			"optionC": "The primary key of the data",
+			"optionD": "Number of tables to be created",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Most common databases would store children toys in pieces. It makes sense, e.g.  creating a second box inside the toy box (database) to store all the heads of your dolls and another box to store arms. This type of database is called a relational database because it keeps track of which arms and heads go with (relate to) which dolls."
+		},
+
+		{ 
+			"question": "Which is not correct about the Primary Keys in databases.",
+			"optionA": "These are always unique values",
+			"optionB": "Can be generated separately",
+			"optionC": "They help to form relationships between tables",
+			"optionD": "Can have duplicate values",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "NULL is a very special value in databases, but most people often get confuse. When you see a NULL value, interpret it as "unknown." If a quantity is NULL, that doesn't necessarily mean that it's zero. Similarly, if a text field holds a NULL value, it doesn't mean that there isn't an appropriate value — it's simply unknown."
+		},
+
+		{ 
+			"question": "What is the correct sequence for a database design process?",
+			"optionA": "Physical design, Logical Design, Conceptual Design, Requirement Analysis",
+			"optionB": "Requirement Analysis, Conceptual Design, Logical Design, Physical design",
+			"optionC": "Requirement Analysis, Logical Design, Conceptual Design, Physical design ",
+			"optionD": "Conceptual Design, Physical design, Requirement Analysis, Logical Design ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "If one has lot of data stored in a Microsoft Excel or other spreadsheet format, s(he) can save lot of time by converting those spreadsheets into database tables."
+		},
+
+		{ 
+			"question": "Which among the following datatypes is not supported in RDBMS?",
+			"optionA": "Logical Data type",
+			"optionB": "String Data type",
+			"optionC": "Date and Time data type",
+			"optionD": "Numeric data type                ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The term “Database Management Systems” or DBMS was coined in the late 1960s. Sometimes people even refer a DBMS as a ‘database’."
+		},
+
+		{ 
+			"question": "The SQL command to create a table is:",
+			"optionA": "  Make Table                                        b.  Alter Table",
+			"optionC": "  Define Table                                        d.  Create Table",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " Today’s Database Management Systems have evolved from anearlier class of programs known as file management systems."
+		},
+
+		{ 
+			"question": "The SQL ALTER statement can be used to:",
+			"optionA": "Change the table structure",
+			"optionB": "Change the table data",
+			"optionC": "Add rows to the table",
+			"optionD": "Delete rows from the table",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "DBMS technology helped development of dynamic web applications. It eliminated language dependencies i.e. data saved by a program written in one language could be read by a program written in another language resulting in decoupling of data storage."
+		},
+
+
+	],
+
+  "classSevenChapterEight": [
+		{ 
+			"question": "In which of these options, Photoshop application does not find a use for it?",
+			"optionA": "Desktop publishing",
+			"optionB": "Multimedia presentation",
+			"optionC": "Digital Image Editing",
+			"optionD": "Scratch Programming",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Adobe has made a simpler version named Photoshop Elements for home users who do not want to buy the more powerful, more expensive full version. Photoshop Express is a free version and is even more limited."
+		},
+
+		{ 
+			"question": "Which among the following is not a desktop publishing program?",
+			"optionA": "QuarkXPress",
+			"optionB": "Corel Draw",
+			"optionC": "Microsoft Outlook",
+			"optionD": "Microsoft Publisher",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Photoshop was originally created by two brothers, Thomas and John Knoll. In 198		{ 
+			"question": "Thomas began writing a program to display grayscale images on a monochrome display to which John added image editing features and together they developed ImagePro, which was eventually bought by Adobe to create what we now know as Photoshop."
+		},
+
+		{ 
+			"question": "Which of the following you can’t do with Photoshop?",
+			"optionA": "Create effects on photos",
+			"optionB": "Manipulate pictures as per your liking",
+			"optionC": "design image and graphic content for websites",
+			"optionD": "		{ 
+			"question": "Effects",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "You Suck AT Photoshop is one of the funniest Photoshop channels on YouTube which is a Webby Award-winning tutorial series by Donnie Hoyle in Soap Opera style."
+		},
+
+		{ 
+			"question": "Which of the following does not appear on the Start Workspace of Photoshop when you open the Photoshop application?",
+			"optionA": "Tools Panel",
+			"optionB": "New / Open Buttons",
+			"optionC": "Display choices for center of Start Workspace",
+			"optionD": "Recent files, libraries or Presets ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Till date there have been total 		{ 
+			"question": "versions of Photoshop starting from the first version by brothers Thomas and John Knoll in the summer of 19		{ 
+			"question": "till the latest version CC 20		{ 
+			"question": "(20.0.		{ 
+			"question": "released in Feb 201		{ 
+			"question": ""
+		},
+
+		{ 
+			"question": "The standard recommended pixel size for web images is? ",
+			"optionA": "150-300",
+			"optionB": "72",
+			"optionC": "800",
+			"optionD": "600",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "GIMP is an open source digital image editing product available freely and can do most of the tasks that we do with Photoshop which is a paid software. "
+		},
+
+		{ 
+			"question": "When making an image for print, which colour mode you will choose in Photoshop?",
+			"optionA": "RGB",
+			"optionB": "Grayscale",
+			"optionC": "CMYK",
+			"optionD": "LAB color mode",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "RGB is the default color mode of Photoshop and it supports almost all types of file formats chief among them being JPEG and GIF."
+		},
+
+		{ 
+			"question": "The file format which can contain both vector and bitmap graphics and supported by all types of graphics and page layout programs is? ",
+			"optionA": "EPS",
+			"optionB": "JPEG",
+			"optionC": "PSD",
+			"optionD": "GIF",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "When organizing files in Photoshop, rename files with descriptive names so that they are searchable."
+		},
+
+		{ 
+			"question": "Options bar in the Photoshop Interface layout is related to the?",
+			"optionA": "Image Window",
+			"optionB": "Tool bar",
+			"optionC": "Menu Bar",
+			"optionD": "Image Title Bar",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "  Photoshop opens over twelve video file formats. The imported videos appear in a new video group in layers panel. The imported videos can be used as clips in a larger video."
+		},
+
+		{ 
+			"question": "Which among the following does not appear by default in the palette window? ",
+			"optionA": "Adjustments",
+			"optionB": "Layers",
+			"optionC": "Channels",
+			"optionD": "Color",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " Photoshop’s mini bridge allows file search, navigation and selection in Photoshop plus direct access to the Bridge."
+		},
+
+		{ 
+			"question": "To specify the transparency of an entire layer, what option will you choose?",
+			"optionA": "Typing in a value in Fill option",
+			"optionB": "Create New Fill or Adjustment Layer",
+			"optionC": "Choose Layer Mask",
+			"optionD": "Type value in Opacity window or drag slider",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " In Photoshop, most tools and menus list keyboard shortcuts next to the command names. This helps to speed up production. "
+		},
+
+
+	],
+
+  "classSevenChapterNine": [
+		{ 
+			"question": "This tool creates a 1-pixel wide selection that spans the height of the image. Identify the tool.",
+			"optionA": "Elliptical Marquee Tool",
+			"optionB": "Single Column Marquee Tool",
+			"optionC": "Single Row Marquee Tool",
+			"optionD": "Lasso Tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " One can make silly faces by using the WARP tool in Photoshop. For this just select a face picture of a person on a new layer and select Smart Object>Convert to Smart Object and then go to Edit>Transform>Warp to get the Warp Transformation Cage.  In the options bar select one of the warp options to see its effect. "
+		},
+
+		{ 
+			"question": "The following tool would be most appropriate to select all objects in an image with the same or similar fill color.",
+			"optionA": "Quick Selection Tool",
+			"optionB": "Magic wand tool",
+			"optionC": "Magnetic Lasso Tool",
+			"optionD": "Polygonal Lasso Tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "   By using the PIN feature of Puppet Warp function, one can make funny faces of a person’s image by considering the image as a piece of stretchy cloth which can be stretched in any direction based on the set of pins that are placed on the face of a person’s image."
+		},
+
+		{ 
+			"question": "For converting an image into smaller sections with straight edges like a jigsaw puzzle we can use this tool.",
+			"optionA": "Crop Tool",
+			"optionB": "Ruler Tool",
+			"optionC": "Note Tool",
+			"optionD": "Slice Tool ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "  Erasers are a relatively modern invention. But erasers as a general category are age-old. The ancient Greeks and Romans relied on palimpsests and smoothable wax tablets to ensure erasability. Those gave way, eventually, to White-Out and Photoshop's "magic eraser" tool."
+		},
+
+		{ 
+			"question": "If I have to place an image or an object on the workplace with precision, I would use the following tool?",
+			"optionA": "Move Tool",
+			"optionB": "Quick Selection Tool",
+			"optionC": "Ruler Tool",
+			"optionD": "Slice Tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": " One can change the shape of the eraser tool to use on different kinds of projects."
+		},
+
+		{ 
+			"question": "Which among the following is not an image alteration or retouching tool?",
+			"optionA": "Magic Wand tool",
+			"optionB": "Healing brush tool",
+			"optionC": "Patch tool",
+			"optionD": "Clone Stamp tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "One can use layers to make animated GIFs. "
+		},
+
+		{ 
+			"question": "If one has to delete the pixels rather than selecting them in a layer one can use the following tool?",
+			"optionA": "Background Eraser Tool",
+			"optionB": "Magic Eraser Tool",
+			"optionC": "Blur Tool",
+			"optionD": "Eraser Tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Photoshop is the undisputed king of digital image editors, but for years the developers of Pixelmator have been challenging that throne, especially for amateurs and part-time professionals which is worth trying."
+		},
+
+		{ 
+			"question": "To smear the pixels in an image in either direction, one can use the following tool?",
+			"optionA": "Smudge tool",
+			"optionB": "Sponge tool",
+			"optionC": "Sharpen tool",
+			"optionD": "Dodge tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The alternation and retouching tools in Photoshop make restoration of old or damaged photographs seem like magic, giving virtually anyone the power to scan, retouch, print and frame their photo collections."
+		},
+
+		{ 
+			"question": "The patch tool combines the action of these two tools in Photoshop?",
+			"optionA": "Healing brush and Marquee tool",
+			"optionB": "Healing brush and Magic Wand tool",
+			"optionC": "Spot healing brush and Lasso tool",
+			"optionD": "Healing brush and Lasso tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Just like a conservator working on a fine-art photograph might use special paints and fine brushes to manually “in-paint” damaged areas of a photograph, similarly one can use the Spot Healing Brush in Photoshop to spot out specks of dust or dirt on a scanned image."
+		},
+
+		{ 
+			"question": "To add the downloaded brushes from Internet into the Photoshop brush gallery, choose the following option.",
+			"optionA": "Selectbrushes",
+			"optionB": "Loadbrushes",
+			"optionC": "Addbrushes",
+			"optionD": "Appendbrushes",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "One can adjust the tone and colour of an image in Photoshop using the Curves and Levels adjustment layers such as applying the White Point tool."
+		},
+
+		{ 
+			"question": "  To trim distracting unwanted elements from the edges of an image or to resize the image, one can use the following tool?",
+			"optionA": "Rectangular marquee tool",
+			"optionB": "Magic wand tool",
+			"optionC": "Lasso tool",
+			"optionD": "Crop Tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "If one deselects an area by accident, s(he) may be able to restore the selection by choosing Edit > Undo or Select > Reselect."
+		},
+
+
+	],
+
+  "classSevenChapterTen": [
+		{ 
+			"question": "Under which Photoshop tool will you find the custom shape tool?",
+			"optionA": "Brush tool",
+			"optionB": "Pen tool",
+			"optionC": "Line shape tool",
+			"optionD": "Type tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Smart Objects are layers that you can edit in Photoshop non-destructively; that is, changes you make to the image remain editable and don’t affect the actual image pixels, which are preserved. Regardless of how often you scale, rotate, skew, or otherwise transform a Smart Object, it retains its sharp, precise edges."
+		},
+
+		{ 
+			"question": "To draw curved paths using pen tool the needed action is? ",
+			"optionA": "click at initial point, move cursor to next place and click again",
+			"optionB": "click and drag the anchor points to modify the path",
+			"optionC": "click initial point, drag cursor in desired curved direction and click at end point",
+			"optionD": "none of the above.",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "You can use the Move tool to copy selections as you drag them within or between images. The Move tool uses less memory because it doesn’t use the clipboard."
+		},
+
+		{ 
+			"question": "Select two tools that can be used to create a path i.e. lines and shapes defining the outline of a vector shape or image.",
+			"optionA": "Shape tool",
+			"optionB": "Quick Selection tool",
+			"optionC": "Magnetic lasso tool",
+			"optionD": "Pen tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The Quick Selection tool expands outward from where one can click to automatically find and follow defined edges in the image."
+		},
+
+		{ 
+			"question": "This tool helps you to find any photoshop option available without having to know where it is in the menu.",
+			"optionA": "Magnify tool",
+			"optionB": "Hand tool",
+			"optionC": "Search tool",
+			"optionD": "View tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "When one wants to delete a range of contiguous layers, Shift-click the first and last layers in the range to select them, and then click the Delete icon in the Layers panel."
+		},
+
+		{ 
+			"question": "To restore default foreground and background colors one has to?",
+			"optionA": "Click the Switch Colors icon ",
+			"optionB": "Click the lower color selection box in the toolbox",
+			"optionC": "Click the upper color selection box in the toolbox",
+			"optionD": "Click the little black and white boxes to the top left-hand corner of the color selection box.",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "OpenType is a cross-platform font file format developed jointly by Adobe and Microsoft. The format uses a single font file for both Mac andWindows, so you can move files from one platform to another without fontsubstitution or reflowed text."
+		},
+
+		{ 
+			"question": "This tool fills an area of an image based on color similarity. ",
+			"optionA": "Paint Bucket tool",
+			"optionB": "Color swatches",
+			"optionC": "Brush tool",
+			"optionD": " Pen tool",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The type in Photoshop is a vector-based outline. But if one saves the file as a JPEG or TIFF image, Photoshop rasterizes the type so the crispiness and clarity of type is lost. To avoid, this one can save the Photoshop file as PDF file in which vector type is maintained."
+		},
+
+		{ 
+			"question": "Which one of these is not a part of option bar for a Type tool selection? ",
+			"optionA": "Font family",
+			"optionB": "Opacity",
+			"optionC": "Font size",
+			"optionD": "Font Style",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "If one frequently works with type in Photoshop, or if s(he) needs toconsistently format a significant amount of type in an image then paragraph andcharacter styles can help him/her work more efficiently."
+		},
+
+		{ 
+			"question": "  When creating type on a path, the direction the type flows depends on?",
+			"optionA": "The order in which anchor points were added to the path",
+			"optionB": "The order in which cursor was moved along the proposed path",
+			"optionC": "The path and type are not dependent on each other",
+			"optionD": "None of the above",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Double-click the thumbnail icon of any type layer in the Layers panel toselect all of the type on that layer."
+		},
+
+		{ 
+			"question": "If using the shortcut keys, you want to switch from currently selected tool to Crop tool, you will?",
+			"optionA": "Press B",
+			"optionB": "Press L",
+			"optionC": "Press K",
+			"optionD": "Press C",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Once a person makes a selection, only the area within an active selection can be edited. "
+		},
+
+		{ 
+			"question": "To solarize an image which is already open in the work space of Photoshop, the action to be taken is? ",
+			"optionA": "Click on Filter → Sharpen → Solarize",
+			"optionB": "Click on Filter → Pixelate →Solarize",
+			"optionC": "Click on Filter → Stylize →Solarize",
+			"optionD": "Click on Filter → Distort →Solarize",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Always save your master image in PSD, TIFF or DNG format, not JPEG. Each time a JPEG is re-edited and saved, compression is reapplied resulting in degradation of imagequality."
+		},
+
+1{
+  "classSevenChapterOne": [
+		{ 
+			"question": "Which of the following controls is used to accept input from the user?",
+			"optionA": "label",
+			"optionB": "button",
+			"optionC": "textbox",
+			"optionD": "toolbox",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Visual Basic is one of the most widely used programming languages in the world. The major reason for its popularity is that it allows programmers to create Windows applications quickly and easily."
+		},
+
+		{ 
+			"question": "Visual Basic was developed by which of the following organizations?",
+			"optionA": "Oracle",
+			"optionB": "Apple",
+			"optionC": "Google",
+			"optionD": "Microsoft ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Visual Basic 20		{ 
+			"question": "is the latest version of Visual Basic launched by Microsoft in 201		{ 
+			"question": "It comes as a .NET desktop development component of the Visual Studio Community 20		{ 
+			"question": "Release Candidate integrated development environment (IDE)."
+		},
+
+		{ 
+			"question": "Which of the following is not a Visual Basic project type that you can create using Visual Studio?",
+			"optionA": "Dynamic Linked Library",
+			"optionB": "Windows Forms App",
+			"optionC": "WPF App",
+			"optionD": "Console App",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Dynamic Linked Libraries are files containing function definitions that can be shared across multiple different programs running on a computer."
+		},
+
+		{ 
+			"question": "Which of the following views is not available in Visual Studio?",
+			"optionA": "Solution View",
+			"optionB": "Memory Inspector View",
+			"optionC": "Form View",
+			"optionD": "Properties View",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The Memory Inspector is a Graphical tool that displays the contents of a particular region of memory in the computer. Most low-level application development IDE’s provide this view."
+		},
+
+		{ 
+			"question": "Visual Basic is part of which programming paradigm?",
+			"optionA": "Procedural Programming",
+			"optionB": "Logical Programming",
+			"optionC": "Object Oriented Programming",
+			"optionD": "Functional Programming",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Programming Paradigms describe the approach or method or style of writing programs. Different languages follow different programming paradigms."
+		},
+
+		{ 
+			"question": "Which of the following does a Class help implement in programming languages?",
+			"optionA": "Abstraction",
+			"optionB": "Inheritance",
+			"optionC": "Encapsulation",
+			"optionD": "All",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "A Class is programming structure that is generally used in the Object-Oriented Programming Paradigm. It implements OOP concepts such as Abstraction, Encapsulation, Inheritance, Polymorphism and Objects."
+		},
+
+		{ 
+			"question": "The statement expression1.expression2 in Visual Basic signifies:",
+			"optionA": "expression1.expression2 is a variable name.",
+			"optionB": "expression2 is an attribute of expression1.",
+			"optionC": "expression1 is an attribute of expression2.",
+			"optionD": "expression1 is the data type for expression2.",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "In most programming languages, “.” Signifies that the following expression is an attribute of the former expression."
+		},
+
+		{ 
+			"question": "Visual basic allows one to develop applications in ____________ .",
+			"optionA": "Graphical User Interface",
+			"optionB": "Real Time",
+			"optionC": "Character User Interface",
+			"optionD": "None of these ",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Visual Basic applications can be developed quickly with relatively less programming knowledge since it allows users to program and design using a graphical user interface."
+		},
+
+		{ 
+			"question": "Which of the following is used to find out information about objects, methods and properties?",
+			"optionA": "Form layout window",
+			"optionB": "Code editor window",
+			"optionC": "Object browser",
+			"optionD": "Properties window",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "The object browser displays all objects that you have created in your application. You can view their available attributes and properties and associated methods."
+		},
+
+		{ 
+			"question": "Object attribute values can be modified using:",
+			"optionA": "Visual Basic Scripts",
+			"optionB": "Properties window",
+			"optionC": "Both a & b",
+			"optionD": "Object browser",
+			"funFactImage": " ",
+			"answer": " ",
+			"funFact": "Visual Basic scripts are programs that modify the attributes of different objects or describe how these objects interact with each other using their associated methods. Sound logic and correct implementation of these methods helps create amazing applications."
+		}
+		]
+	}

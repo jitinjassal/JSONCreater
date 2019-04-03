@@ -36,6 +36,7 @@ public class JSONCreator extends javax.swing.JFrame {
         jLabel1 = new javax.swing.JLabel();
         jScrollPane1 = new javax.swing.JScrollPane();
         jTextArea1 = new javax.swing.JTextArea();
+        jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -56,16 +57,21 @@ public class JSONCreator extends javax.swing.JFrame {
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jButton1)
-                .addGap(282, 282, 282))
             .addGroup(layout.createSequentialGroup()
                 .addGap(24, 24, 24)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 694, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jLabel1))
                 .addContainerGap(29, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(jButton1)
+                        .addGap(282, 282, 282))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+                        .addComponent(jLabel2)
+                        .addGap(338, 338, 338))))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -73,10 +79,12 @@ public class JSONCreator extends javax.swing.JFrame {
                 .addContainerGap()
                 .addComponent(jLabel1)
                 .addGap(18, 18, 18)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 414, Short.MAX_VALUE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 432, Short.MAX_VALUE)
                 .addGap(18, 18, 18)
                 .addComponent(jButton1)
-                .addGap(29, 29, 29))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel2)
+                .addGap(5, 5, 5))
         );
 
         pack();
@@ -113,12 +121,37 @@ public class JSONCreator extends javax.swing.JFrame {
       str= str.replaceAll("\nb. ", "\",\n\t\t\t\"optionB\": \"");
       str= str.replaceAll("\nc. ", "\",\n\t\t\t\"optionC\": \"");
       str= str.replaceAll("\nd. ", "\",\n\t\t\t\"optionD\": \"");
-      str= str.replaceAll("\nFun Fact: ", "\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
-      str= str.replaceAll("\nFun Facts: ", "\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
+      str= str.replaceAll("\nFun Fact: ", "\",\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
+      str= str.replaceAll("\nFun Facts: ", "\",\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \",\n\t\t\t\"funFact\": \"");
 
       //str= str+"\n\t\t\t\"funFactImage\": \" \",\n\t\t\t\"answer\": \" \"";
       str= str.replaceAll("\n\n", "\"\n\t\t},\n");
 
+      str = str.replaceAll("1-Chapter ","{\n" +
+"  \"classSevenChapterOne\": [");
+            str = str.replaceAll("2-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterTwo\": [");
+                  str = str.replaceAll("3-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterThree\": [");
+      str = str.replaceAll("4-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterFour\": [");
+      str = str.replaceAll("5-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterFive\": [");
+      str = str.replaceAll("6-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterSix\": [");      
+      str = str.replaceAll("7-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterSeven\": [");      
+      str = str.replaceAll("8-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterEight\": [");      
+      str = str.replaceAll("9-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterNine\": [");      
+      str = str.replaceAll("10-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterTen\": [");      
+      str = str.replaceAll("11-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterEleven\": [");      
+      str = str.replaceAll("12-Chapter ","\n\t],\n\n" +
+"  \"classSevenChapterTwelve\": [");      
+      
       // Using replace to replace characters 
      // System.out.println(str.replace('e', 'D')); 
      //System.out.println(str+"\"\n\t\t}");
@@ -126,10 +159,12 @@ public class JSONCreator extends javax.swing.JFrame {
      try {
 			File file = new File("file.json");
 			FileWriter fileWriter = new FileWriter(file);
-			fileWriter.write(str+"\"\n\t\t}");
+			fileWriter.write(str+"\"\n\t\t}\n\t\t]\n\t}");
 			fileWriter.flush();
 			fileWriter.close();
-		} catch (IOException e) {
+		
+     jLabel2.setText("file.json created!");
+     } catch (IOException e) {
 			e.printStackTrace();
 		}
         
@@ -173,6 +208,7 @@ public class JSONCreator extends javax.swing.JFrame {
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
     private javax.swing.JLabel jLabel1;
+    private javax.swing.JLabel jLabel2;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JTextArea jTextArea1;
     // End of variables declaration//GEN-END:variables
